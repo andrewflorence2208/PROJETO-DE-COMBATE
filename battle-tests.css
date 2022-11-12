@@ -566,7 +566,7 @@ b{
 
 .continuar-bt , .info_bt{
   border: none;
-  font-size: large;
+  font-size: 27px;
   font-weight: 600;
   color: aquamarine;
   background-color: transparent;
